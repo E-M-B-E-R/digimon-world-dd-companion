@@ -3,6 +3,11 @@
 Week 3 out of 4 on testing out Github Copilot tools.
 A Next.js application that helps players of Digimon Dawn/Dusk find evolution paths for their Digimon.
 
+## Credits
+Thanks to:
+* clokken for Digimon & evolution data https://github.com/clokken/digimon-dawn-dusk-data. See their README for more credits.
+* Crystalwolf953 for inspiration https://www.reddit.com/r/digimon/comments/itun86/digimon_world_dawndusk_digivolution_guide.
+
 ## Features
 
 - 🔍 **Smart Search**: Type-ahead search with autocomplete suggestions
